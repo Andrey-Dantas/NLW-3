@@ -28,6 +28,12 @@ h1,
   animation-delay: 100ms;
 }
 
+.location a {
+  text-decoration: none;
+  color: white;
+  display: block;
+}
+
 main h1 {
   animation-delay: 150ms;
   font-size: clamp(4rem, 8vw, 8.4rem);
@@ -84,12 +90,6 @@ main h1 {
     text-align: right;
     font-size: 2.4rem;
     line-height: 1.5;
-  }
-
-  .location a {
-    text-decoration: none;
-    color: white;
-    display: block;
   }
 
   main h1 {

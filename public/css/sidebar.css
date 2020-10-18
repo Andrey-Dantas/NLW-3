@@ -1,4 +1,10 @@
 aside.sidebar {
+  display: none;
+}
+
+/* desktop version */
+@media (min-width: 760px) {
+  aside.sidebar {
     position: fixed;
     height: 100%;
     padding: 3.2rem 2.4rem;
@@ -32,3 +38,4 @@ aside.sidebar {
   .with-sidebar {
     padding-left: 110px;
   }
+}

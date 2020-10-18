@@ -1,6 +1,4 @@
 form {
-  width: 700px;
-  margin: 6.4rem auto;
   background: white;
   border: 1px solid #d3e2e5;
 
@@ -8,7 +6,7 @@ form {
 
   overflow: hidden;
 
-  padding: 8rem;
+  padding: 5rem;
 }
 
 fieldset {
@@ -115,4 +113,13 @@ fieldset legend {
 
 .new-upload + .new-upload {
   margin-top: 2.4rem;
+}
+
+/* desktop version */
+@media (min-width: 760px) {
+  form {
+    width: 700px;
+    margin: 6.4rem auto;
+    padding: 8rem;
+  }
 }

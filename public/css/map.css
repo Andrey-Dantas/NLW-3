@@ -1,5 +1,5 @@
 .map-container {
-  margin-top: 6.4rem;
+  margin-top: 4rem;
   background: #e6f7fb;
   border: 1px solid #dde3f0;
   border-radius: 2rem;
@@ -25,4 +25,11 @@
 .map-container .leaflet-container {
   border-bottom: 1px solid #dde3f0;
   border-radius: 2rem;
+}
+
+/* desktop version */
+@media(min-width: 760px) {
+  .map-container {
+    margin-top: 6.4rem;
+  }
 }
