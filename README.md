@@ -1,10 +1,3 @@
-# Mudanças feitas
-
-<h3>Adicionado geolocalização</h3>
-  <p>o mapa do "page-orphanages" inicia na sua posição</p>
-  <p>o mapa do "create-orphanage" inicia na sua posição</p>
-  <img src="./.github/page-orphanages.png">
-  <img src="./.github/page-orphanages1.png">
-  
-<h3>Adiocionado a compatibilidade mobile</h3>
-  <img src="./.github/mobile.png">
+<h1 align="center">
+    <img alt="Happy" title="Happy" src=".github/logo.svg" />
+</h1>
